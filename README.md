@@ -114,6 +114,8 @@ Clean the text
 Convert the review into TF-IDF features
 Predict the sentiment
 Display positive and negative probabilities
+
+
 🛠️ Technologies Used
 Programming Language
 Python
@@ -128,6 +130,7 @@ TF-IDF
 Logistic Regression
 Multinomial Naive Bayes
 Linear SVM
+
 📂 Project Structure
 IMDb-Sentiment-Analysis/
 │
@@ -137,6 +140,7 @@ IMDb-Sentiment-Analysis/
 ├── IMDb_Sentiment_Analysis.ipynb
 ├── README.md
 └── requirements.txt
+
 ⚙️ Installation
 
 Clone the repository:
@@ -150,12 +154,11 @@ cd IMDb-Sentiment-Analysis
 Install the required dependencies:
 
 pip install -r requirements.txt
+
+
 ▶️ Run the Application
-
 Start the Streamlit application:
-
-streamlit run app.py
-
+    streamlit run app.py
 The application will open in your browser.
 
 🔮 Future Improvements
@@ -164,10 +167,9 @@ Advanced NLP models such as BERT
 Sentiment confidence visualization
 Online deployment
 Multilingual sentiment analysis
+
 👩‍💻 Author
-
 Swati
-
 B.Sc. Information Technology
 Mumbai University
 
